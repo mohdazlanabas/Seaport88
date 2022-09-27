@@ -1,6 +1,5 @@
 body {
     background-color: lightblue;
-    
   }
 
   .wrapper {
@@ -24,5 +23,4 @@ margin-top: 70px;
 display: flex;
 position: fixed;
 top:0;
-padding:10px;
     }
