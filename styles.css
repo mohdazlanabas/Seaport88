@@ -2,18 +2,33 @@ body {
   background-color: lightblue;
   }
 
-  .wrapper {
+.wrapper {
+  background-color: white;
   padding: 20px;
-  width: 80%;
-  margin-top: 70px;
-  }
+  width: 87%;
+  margin-top: 100px;
+  border-style: solid;
+  border-color: rgb(74, 174, 199);
+  border-width: 7px;
+}
 
-  .footer {
+.frame {
+  background-color: white;
+  padding: 20px;
+  width: 87%;
+  margin-top: 20px;
+  border-style: solid;
+  border-color: rgb(74, 174, 199);
+  border-width: 7px;
+
+}
+
+.footer {
   background-color: black;
   padding: 10px;
   color: white;
-  width: 95%
-  }
+  width: 92%
+}
 
 .header {
   background-color: black;
@@ -33,7 +48,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  width: 113%;
+  width: 100%;
   display: flec;
   justify-content: center;
   align-items: center;
