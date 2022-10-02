@@ -12,17 +12,6 @@ body {
   border-width: 7px;
 }
 
-.frame {
-  background-color: white;
-  padding: 20px;
-  width: 87%;
-  margin-top: 20px;
-  border-style: solid;
-  border-color: rgb(74, 174, 199);
-  border-width: 7px;
-
-}
-
 .footer {
   background-color: black;
   padding: 10px;
